@@ -1,9 +1,4 @@
 ---
 title: Notes
 ---
-Here are some useful notes:
-
-Dynamic Programming
-Reinforcement Learning
-Adaptive Control
-Discrete Time Adaptive Control
+### Here are some notes I put together on topics that may be useful. 
