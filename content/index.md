@@ -1,5 +1,5 @@
 ---
-title: Tutorials
+title: Notes
 ---
 Here are some useful notes:
 
