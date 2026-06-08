@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Alan's Notes
+  pageTitle: Test
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: alanbcao.github.io/Tutorials/
+  baseUrl: alanstutorials.github.io
   ignorePatterns:
     - private
     - templates
