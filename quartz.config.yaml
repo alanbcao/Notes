@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: alanstutorials.github.io
+  baseUrl: alanbcao.github.io/Tutorials/
   ignorePatterns:
     - private
     - templates
