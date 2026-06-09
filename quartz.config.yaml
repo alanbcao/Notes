@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://alanbcao.github.io/notes/
+  baseUrl: alanbcao.github.io/notes
   ignorePatterns:
     - private
     - templates
